@@ -1,1 +1,3 @@
 This is readami file
+
+Multiple developers working on same project [concept of branches]
