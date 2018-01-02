@@ -1,1 +1,3 @@
 Welcome to Git Repo
+
+Welcome to Version Contol in Git [keep maintaning updated file with date so if we change somthing we can easily find through Version Control]
